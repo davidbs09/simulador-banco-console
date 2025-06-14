@@ -23,7 +23,7 @@ O **Banco Console** é uma aplicação simples de terminal que simula a criaçã
    ```
 3. Execute o programa:
    ```sh
-   java -cp bin App
+   java -cp bin ContaTerminal
    ```
 
 ## Sobre
